@@ -49,4 +49,4 @@ I have a few questions regarding the application process:
 Thank you very much for your time, and I look forward to your response.
 
 Best regards,
-Yang Li
+[name]
